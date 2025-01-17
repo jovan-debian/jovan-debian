@@ -10,7 +10,7 @@ I'm back end developer and I like to develop with PHP and laravel projects, but 
 
 
 ### Things I love:
-- PHP <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- PHP and C#  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - FullStack Development✍️
 
 
