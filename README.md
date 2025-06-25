@@ -2,7 +2,7 @@
 
 <!-- <h3>  I am Jovan 👋</h3> -->
 ###  I am Jovan Santamaria 👋
-I'm back end developer and I like to develop with PHP and laravel projects, but I have experience with python, c# ,c++,javascript and typescript.
+I'm FullStack developer and I like to develop with PHP and laravel projects, but I have experience with python, c# ,c++,javascript and typescript.
 
 - 🎯 Portfolio website: [Portfolio](https://jovan-debian.github.io/)
 - 💬 Ask me about anything, I am happy to help :smile:
